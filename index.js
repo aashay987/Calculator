@@ -211,10 +211,10 @@ function logKey(e) {
   {
     div();
   }
-  else if (e.key ==='Enter')
-  {
-    equa();
-  }
+//   else if (e.key ==='Enter')
+//   {
+//     equa();
+//   }
 }
 
 function number(ev)
